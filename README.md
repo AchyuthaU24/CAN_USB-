@@ -1,6 +1,6 @@
 # Candlelight Rebuild — CAN Bus Interface PCB
 
-A KiCad redesign of the open-source **Candlelight** USB-CAN adapter, rebuilt as a clean hierarchical multi-sheet schematic with a production-ready 2-layer PCB layout.
+A KiCad design of the open-source **Candlelight** USB-CAN adapter, rebuilt as a clean hierarchical multi-sheet schematic with a production-ready 2-layer PCB layout.
 
 ---
 
