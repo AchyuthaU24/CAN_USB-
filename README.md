@@ -78,4 +78,4 @@ candlelight_rebuild/
 
 ## License
 
-This design is released under [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt) (or your preferred open hardware license).
+This design is released under [CERN-OHL-S v2](https://ohwr.org/cern_ohl_s_v2.txt).
