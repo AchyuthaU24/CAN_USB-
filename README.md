@@ -51,7 +51,7 @@ candlelight_rebuild/
 
 ## Getting Started
 
-1. Install [KiCad 7 or 8](https://www.kicad.org/download/)
+1. Install [KiCad 10](https://www.kicad.org/download/)
 2. Clone this repo
 3. Open `candlelight_rebuild.kicad_pro` in KiCad
 4. Use **Schematic Editor** to view/edit schematics
